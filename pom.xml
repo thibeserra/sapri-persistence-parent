@@ -31,10 +31,10 @@
 				<artifactId>flyway-maven-plugin</artifactId>
 				<version>5.1.4</version>
 				<configuration>
-					<url>jdbc:mysql://adcpersistence.mysql.dbaas.com.br:3306/adcpersistence</url>
+					<url>jdbc:mysql://adcpersist_dev.mysql.dbaas.com.br:3306/adcpersist_dev</url>
 					<driver>com.mysql.jdbc.Driver</driver>
-					<user>adcpersistence</user>
-					<password>labsprog</password>
+					<user>adcpersist_dev</user>
+					<password>***</password>
 				</configuration>
 			</plugin>
 		</plugins>
