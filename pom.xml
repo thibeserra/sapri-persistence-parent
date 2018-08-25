@@ -57,11 +57,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
 	</dependencies>
 
 	<modules>
-		<module>../sapri-persistence-contact</module>
+		<module>../sapri-persistence-admin</module>
 		<module>../sapri-commons</module>
+		<module>../sapri-persistence-contact</module>
 	</modules>
 
 </project>
